@@ -14,4 +14,8 @@
 
 ### Copyright
 
-Copyright © Soldatkin™Lab.2018. Free License
+Copyright © Soldatkin™Lab.2018. 
+
+### License
+
+MIT.
